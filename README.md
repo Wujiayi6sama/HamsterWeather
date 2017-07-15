@@ -6,6 +6,13 @@
 
 - 当前进程
     - 完成创建数据库相关代码，使用litepal
+    - 完成网络访问和数据解析，使用okhttp3和gson
+    - 完成界面设计跟相关实现
+
+- 涉及技术
+    - litepal
+    - okhttp3
+    - gson
 
 - 参考
     - *[github地址](https://github.com/guolindev/coolweather)*
