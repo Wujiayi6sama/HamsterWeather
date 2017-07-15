@@ -2,16 +2,15 @@ package com.example.wujiayi.hamsterweather.db;
 
 import org.litepal.crud.DataSupport;
 
-/**
- * Created by Wujiayi on 2017/7/14.
- */
+public class Province extends DataSupport {
 
-public class Province extends DataSupport{
     private int id;
+
     private String provinceName;
+
     private int provinceCode;
 
-    public int getId(){
+    public int getId() {
         return id;
     }
 
